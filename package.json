@@ -1,5 +1,5 @@
 {
-  "name": "prettier-config",
+  "name": "@movn/prettier-config",
   "version": "1.0.0",
   "description": "Configuration object for prettier",
   "main": "index.json",

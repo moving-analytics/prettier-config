@@ -11,7 +11,7 @@ Configuration object for Prettier
 2. Install our configuration object for Prettier
 
     ```bash
-    npm i -D "https://raw.githubusercontent.com/moving-analytics/prettier-config/main/index.json"
+    npm i -D "@movn/prettier-config"
     ```
 
 3. Add the prettier line below to the project's `package.json`
@@ -20,7 +20,7 @@ Configuration object for Prettier
     {
       "name": "movn-project",
       "version": "1.0.0",
-      "prettier": "https://raw.githubusercontent.com/moving-analytics/prettier-config/main/index.json",
+      "prettier": "@movn/prettier-config",
       ...
     }
     ```
