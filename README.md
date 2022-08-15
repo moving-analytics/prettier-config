@@ -11,17 +11,16 @@ Configuration object for Prettier
 2. Install our configuration object for Prettier
 
     ```bash
-    npm i -D "@movn/prettier-config"
+    npm install --save-dev "@movn/prettier-config"
     ```
 
-3. Add the prettier line below to the project's `package.json`
+3. Add `"prettier": "@movn/prettier-config"` to the project's `package.json`
 
     ```json
     {
       "name": "movn-project",
       "version": "1.0.0",
       "prettier": "@movn/prettier-config",
-      ...
     }
     ```
 
