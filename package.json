@@ -1,0 +1,12 @@
+{
+  "name": "prettier-config",
+  "version": "1.0.0",
+  "description": "Configuration object for prettier",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/moving-analytics/prettier-config.git"
+  },
+  "author": "chrismoving",
+  "homepage": "https://github.com/moving-analytics/prettier-config#readme"
+}
