@@ -11,6 +11,11 @@ Configuration object for Prettier
 2. Install our configuration object for Prettier
 
     ```bash
+    yarn add --dev "@movn/prettier-config"
+    ```
+    or
+
+    ```bash
     npm install --save-dev "@movn/prettier-config"
     ```
 
